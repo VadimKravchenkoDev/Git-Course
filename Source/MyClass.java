@@ -8,5 +8,9 @@ public class MyClass {
     //add feature 1
 
     //small fix
+
+    //add feature 2. part 1
+
+    //add feature 2. part 2
   }
 }

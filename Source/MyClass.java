@@ -7,6 +7,8 @@ public class MyClass {
     System.out.println("Sum of x+y = " + z);
     //add feature 1
 
-    //add feature 2.part 1
+    //add feature 2. part 1
+
+    //add feature 2. part 2
   }
 }
